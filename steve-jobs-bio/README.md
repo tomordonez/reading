@@ -1,6 +1,13 @@
 I started this summary at Ch17
 
 ## Chapter 17: Icarus: What Goes up
+
+The team is burnout after the Macintosh is launched. Andy Hertzfeld, Burrell
+Smith, and Steve Wozniak leave (although he remained in the Apple II). More disagreements between Sculley and Jobs.
+Jobs lack of personal relationships, inexperience with management, and
+operations. Sculley is a business person without a focus in product
+development. The board votes to keep Sculley and kick Jobs out.
+
 ## Chapter 18: NeXT
 ## Chapter 19: Pixar
 ## Chapter 20: A regular guy
