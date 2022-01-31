@@ -9,6 +9,13 @@ operations. Sculley is a business person without a focus in product
 development. The board votes to keep Sculley and kick Jobs out.
 
 ## Chapter 18: NeXT
+
+Steve launches NeXT and spends $100K on the logo. Then argues with its designer
+about the proper placement of Steve's middle name period, and that it should be placed
+under the curve of the letter P and not after the letter. Steve seeks VC
+funding and underestimates the delivery of the OS. Like in the movie, it's a
+beautiful $6,000 black box with no OS. They start to run out of money.
+
 ## Chapter 19: Pixar
 ## Chapter 20: A regular guy
 ## Chapter 21: Family man
