@@ -17,6 +17,16 @@ funding and underestimates the delivery of the OS. Like in the movie, it's a
 beautiful $6,000 black box with no OS. They start to run out of money.
 
 ## Chapter 19: Pixar
+
+Steve buys the computer animation division of Lucas Films for $10M and calls it
+Pixar. Tries to control the company and clashes with one of the founders who
+ends up leaving. Also tries to sell the software/hardware as a publishing
+desktop but it is too expensive. With Lasseter they create a short for SIGGRAPH
+that gives them an Academy award nomination. Now Steve has $50M of his own
+money in Pixar, about more than half from selling all his Apple shares. They
+layoff and Pixar is losing money. Also NeXT is not doing great. They do a Hail
+Mary pass and create a short Tin Toy that wins an Academy Award.
+
 ## Chapter 20: A regular guy
 ## Chapter 21: Family man
 ## Chapter 22: Toy story
