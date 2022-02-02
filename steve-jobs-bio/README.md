@@ -28,6 +28,10 @@ layoff and Pixar is losing money. Also NeXT is not doing great. They do a Hail
 Mary pass and create a short Tin Toy that wins an Academy Award.
 
 ## Chapter 20: A regular guy
+
+Steve dates Joan Baez, then tracks down his birth mother, sister, and father.
+Almost marries a girlfriend. Spends more time with Lisa but they argue often.
+
 ## Chapter 21: Family man
 ## Chapter 22: Toy story
 ## Chapter 23: The second coming
