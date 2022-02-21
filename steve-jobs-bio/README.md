@@ -33,6 +33,9 @@ Steve dates Joan Baez, then tracks down his birth mother, sister, and father.
 Almost marries a girlfriend. Spends more time with Lisa but they argue often.
 
 ## Chapter 21: Family man
+Steve gets married, more about his relationship with his sister and daughter,
+he has three kids and a bit detail about them.
+
 ## Chapter 22: Toy story
 ## Chapter 23: The second coming
 ## Chapter 24: The restoration
