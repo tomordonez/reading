@@ -43,6 +43,8 @@ script. Pixar goes IPO and with Steve's 80% ownership he is worth $1.2B. They
 renegotiate with Disney to make more movies and keep half the profits.
 
 ## Chapter 23: The second coming
+Steve finds a way to sell NeXT to Apple.
+
 ## Chapter 24: The restoration
 ## Chapter 25: Think different
 ## Chapter 26: Design principles
