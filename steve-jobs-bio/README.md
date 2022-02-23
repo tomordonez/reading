@@ -37,6 +37,11 @@ Steve gets married, more about his relationship with his sister and daughter,
 he has three kids and a bit detail about them.
 
 ## Chapter 22: Toy story
+Steve negotiates with Disney to make Toy Story. There is conflict with Disney's
+leadership and after completing half the movie, Pixar has to rewrite the
+script. Pixar goes IPO and with Steve's 80% ownership he is worth $1.2B. They
+renegotiate with Disney to make more movies and keep half the profits.
+
 ## Chapter 23: The second coming
 ## Chapter 24: The restoration
 ## Chapter 25: Think different
