@@ -46,6 +46,10 @@ renegotiate with Disney to make more movies and keep half the profits.
 Steve finds a way to sell NeXT to Apple.
 
 ## Chapter 24: The restoration
+Steve starts to take control of Apple, they fired the CEO and almost the
+entire board. Steve presents a partnership with Microsoft to have MS Office on
+Apple computers.
+
 ## Chapter 25: Think different
 ## Chapter 26: Design principles
 ## Chapter 27: The iMac
