@@ -51,6 +51,9 @@ entire board. Steve presents a partnership with Microsoft to have MS Office on
 Apple computers.
 
 ## Chapter 25: Think different
+Steve takes over as CEO, trims the product line, and focuses on great products
+that make money.
+
 ## Chapter 26: Design principles
 ## Chapter 27: The iMac
 ## Chapter 28: CEO
