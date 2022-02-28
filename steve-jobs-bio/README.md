@@ -59,10 +59,8 @@ Steve finds Jony Ive and they share their love for product design and even the
 packaging tells a story about the product.
 
 ## Chapter 27: The iMac
-## Chapter 28: CEO
-## Chapter 29: Apple stores
-## Chapter 30: The digital hub
-## Chapter 31: The iTunes store
+Steve and Apple burn the midnight oil to launch the bondi blue iMac, translucent to see through and a handle to carry it.
+
 ## Chapter 32: Music man
 ## Chapter 33: Pixar's friends
 ## Chapter 34: 21st century macs
