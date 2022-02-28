@@ -55,6 +55,9 @@ Steve takes over as CEO, trims the product line, and focuses on great products
 that make money.
 
 ## Chapter 26: Design principles
+Steve finds Jony Ive and they share their love for product design and even the
+packaging tells a story about the product.
+
 ## Chapter 27: The iMac
 ## Chapter 28: CEO
 ## Chapter 29: Apple stores
