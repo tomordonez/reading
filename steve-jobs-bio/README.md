@@ -61,6 +61,14 @@ packaging tells a story about the product.
 ## Chapter 27: The iMac
 Steve and Apple burn the midnight oil to launch the bondi blue iMac, translucent to see through and a handle to carry it.
 
+## Chapter 28: CEO
+Steve grows into the manager role, drops the interim 'i' from iCEO, meets Tim
+Cook, improves efficiency in distribution and manufacturing. Apple launches
+OSX, adapting NeXT's kernel into the Mac OS kernel (aka Darwin).
+
+## Chapter 29: Apple Stores
+## Chapter 30: The Digital hub
+## Chapter 31: The iTunes store
 ## Chapter 32: Music man
 ## Chapter 33: Pixar's friends
 ## Chapter 34: 21st century macs
