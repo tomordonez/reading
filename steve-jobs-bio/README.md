@@ -67,6 +67,12 @@ Cook, improves efficiency in distribution and manufacturing. Apple launches
 OSX, adapting NeXT's kernel into the Mac OS kernel (aka Darwin).
 
 ## Chapter 29: Apple Stores
+Steve wants to control the full cycle experience of the product, including
+where customers buy their products. They design the store to look similar to
+Jony's design studio. The Genius Bar idea comes from combining a concierge desk
+witht a bar, from a Ritz-Carlton training program. They open the cube store in
+Manhattan and it attracts 50K visitors per week.
+
 ## Chapter 30: The Digital hub
 ## Chapter 31: The iTunes store
 ## Chapter 32: Music man
