@@ -74,15 +74,52 @@ witht a bar, from a Ritz-Carlton training program. They open the cube store in
 Manhattan and it attracts 50K visitors per week.
 
 ## Chapter 30: The Digital hub
+Apple develops the iPod.
+
 ## Chapter 31: The iTunes store
+Trying to solve the Napster problem, Apple evolves the music industry with the
+iTunes store. Steve convinces Warner, Universal Music, Sony, and even Dr Dre to get
+on board. 99c per song. They forecasted to sell 1M songs in 6 months. Instead
+they sell 1M songs in 6 days.
+
 ## Chapter 32: Music man
+Steve makes special deals for Bob Dylan and U2.
+
 ## Chapter 33: Pixar's friends
+Steve argues with Disney's Eisner until Iger becomes the CEO. Disney realizes
+that Pixar is the future. Disney buys Pixar for almost $8B. Steve becomes
+Disney's largest stakeholder.
+
 ## Chapter 34: 21st century macs
+Apple makes the box but it flops. Steve runs into some accounting issues about
+his stock grants.
+
 ## Chapter 35: Round one
+Steve gets cancer, hesitates to the surgery, cancer spreads, gets the surgery.
+Apple lines up a management team. Tim is promoted to COO.
+
 ## Chapter 36: The iPhone
+Apple acquires a company that patented multi-touch screens then talks to
+Corning about their Gorilla Glass product which is used to launch the iPhone
+after some revisions.
+
 ## Chapter 37: Round two
+Steve's cancer comes back and he tries his best at challenging death. He comes
+back to Apple.
+
 ## Chapter 38: The iPad
+Apple launches the iPad to confused viewers, they don't know what it is. A
+giant iPhone? Then they love it.
+
 ## Chapter 39: New battles
+Apple sues Google over the iPhone patents. They finally make peace with The
+Beatles. Issues with iPhone 4 arise but they rock them out.
+
 ## Chapter 40: To infinity
+Apple launches iCloud and Steve starts designing a new office.
+
 ## Chapter 41: Round three
+Steve makes peace with all his foes.
+
 ## Chapter 42: Legacy
+Focus on product over profits
